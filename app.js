@@ -1,11 +1,11 @@
 // Cole abaixo as chaves do seu projeto Firebase
 const firebaseConfig = {
-  apiKey: "SUA_API_KEY",
-  authDomain: "SEU_PROJECT_ID.firebaseapp.com",
-  projectId: "SEU_PROJECT_ID",
-  storageBucket: "SEU_PROJECT_ID.appspot.com",
-  messagingSenderId: "SEU_SENDER_ID",
-  appId: "SEU_APP_ID"
+  apiKey: "AIzaSyAY0-bsCNhUTrN_c8sidBeaE8LIhQkY06A",
+  authDomain: "encurtadorlinksaula.firebaseapp.com",
+  projectId: "encurtadorlinksaula",
+  storageBucket: "encurtadorlinksaula.firebasestorage.app",
+  messagingSenderId: "317607740353",
+  appId: "1:317607740353:web:3d0a5b57205d7cfba72540"
 };
 
 firebase.initializeApp(firebaseConfig);
